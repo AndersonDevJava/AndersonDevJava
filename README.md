@@ -6,6 +6,7 @@
 </p>
 
 ---
+
 ### 🛠️ Tecnologias que uso
 
 <div align="center">
@@ -21,17 +22,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDevJava&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDevJava&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndersonDevJava&theme=radical&row=1&column=6"/>
 </div>
 
 ---
