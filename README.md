@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDevJava&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDevJava&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -32,7 +32,7 @@
 ### 📂 Projetos em destaque
 
 - 🔬 [Mundo Científico – Curiosidades sobre cientistas](https://github.com/AndersonDevJava/mundo-cientifico-curiosidades)  
-  Projeto desenvolvido com HTML e CSS que apresenta curiosidades sobre cientistas renomados. Ideal para praticar estruturação de páginas e estilização visual.
+  Projeto desenvolvido com HTML e CSS que apresenta curiosidades sobre cientistas renomados.
 
 - 💼 [Portfólio Profissional](https://github.com/AndersonDevJava/portifolio)  
   Página pessoal que destaca habilidades, tecnologias dominadas e projetos realizados.
