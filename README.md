@@ -26,7 +26,7 @@
 
 - 💼 [Portfólio Web](https://andersondevjava.github.io/portfolio/)
   
-- 🍔 [Dev Big Burguer](https://github.com/AndersonDevJava/hamburgueria-site)
+- 🍔 [Dev Big Burguer](https://andersondevjava.github.io/hamburgueria-site/)
 
   <br><br>  
 
