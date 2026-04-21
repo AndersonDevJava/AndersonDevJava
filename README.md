@@ -5,7 +5,7 @@
   Formado em ADS e evoluindo com foco em Java, Spring Boot, React e Node.js 💡
 </p>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex;">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
